@@ -26,7 +26,7 @@
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Abstract Overview](/assets/img/Proposed.png)
 
 ### EffiCOVID-net: A highly efficient convolutional neural network for COVID-19 diagnosis using chest X-ray imaging
 [Publication](https://www.sciencedirect.com/science/article/pii/S1046202325001033?via%3Dihub)

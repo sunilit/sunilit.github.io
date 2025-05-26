@@ -50,7 +50,7 @@
 ### ADConv-Net: Advanced Deep Convolution Neural Network for COVID-19 Diagnostics Using Chest X-Ray and CT Images
 [Publication](https://link.springer.com/article/10.1007/s42979-025-03923-4)
 
-Developed objective strategy for discovering X-ray and CT based image on ADConv-Net Framework using DL **Python**. This data-driven approach led to better classification of the underlying image by identifying COVID-19, Normal, Bacterial Pneumonia and Viral Pnuemonia. The proposed method provides a fully automated and flexible approach to capturing key diseases and possibly discovering new indices of lung activity.
+Developed objective strategy for discovering X-ray and CT based image on ADConv-Net Framework using DL. This data-driven approach led to better classification of the underlying image by identifying COVID-19, Normal, Bacterial Pneumonia and Viral Pnuemonia. The proposed method provides a fully automated and flexible approach to capturing key diseases and possibly discovering new indices of lung activity.
 
 ![Abstract Overview](/assets/img/Proposed.png)
 

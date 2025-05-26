@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., CSE | NIT Karnataka (September 2021_- Present_)								       		
-- M.Tech., CSE	| NIT Jalandhar (August 2019_August 2021_)	 			        		
-- B.Tech., IT | IIMT Groupe of Colleges, G.Noida (June 2012_July 2016_)
+- Ph.D., CSE   | National Institute of Technology Karnataka (September 2021_- Present_)								       		
+- M.Tech., CSE | Dr. B.R Ambedkar National Institute of Technology Jalandhar, Punjab, India (August 2019_August 2021_)	 			        		
+- B.Tech., IT  | IIMT Groupe of Colleges, G.Noida , India (June 2012_July 2016_)
 
 ## Work Experience
 **Teaching Aassistant @ National Institute of Technology Karnataka, Manglore India (September 2021_ - Present_)**

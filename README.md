@@ -57,7 +57,7 @@ Developed objective strategy for discovering X-ray and CT based image on ADConv-
 ### EffiCOVID-net: A highly efficient convolutional neural network for COVID-19 diagnosis using chest X-ray imaging
 [Publication](https://www.sciencedirect.com/science/article/pii/S1046202325001033?via%3Dihub)
 
-Used **Python** tensorflow to train over lightweigth EffiCOVID-Net model with 10 deep learning models which estimated particulate matter concentrations based on a suite of over X-ray images. We found four class variables can be used to accurately detect and classify COVID-19, Normal and Viral pneumonia. 
+Used **Python** to train over lightweigth EffiCOVID-Net model with 10 deep learning models which estimated particulate matter concentrations based on a suite of over X-ray images. We found four class variables can be used to accurately detect and classify COVID-19, Normal and Viral pneumonia. 
 
 ![Lungs Study](/assets/img/prp.png)
 

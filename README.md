@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., CSE | National Institute of Technology Karnataka (_September 2021_- Present)								       		
+- Ph.D., CSE | National Institute of Technology Karnataka (_September 2021_ - Present)								       		
 - M.Tech., CSE | Dr. B.R Ambedkar National Institute of Technology Jalandhar, Punjab, India (_August 2019_August 2021_)	 			        		
 - B.Tech., IT | IIMT Groupe of Colleges, G.Noida , India (_June 2012_July 2016_)
 

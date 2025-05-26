@@ -46,15 +46,29 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+1. Kumar, S., & Bhowmik, B. (2025). ADConv-Net: Advanced Deep Convolution Neural Network for COVID-19 Diagnostics Using Chest X-Ray and CT Images. SN Computer Science, 6(5), 1-22. https://doi.org/10.1007/s42979-025-03923-4
+2. Kumar, S., & Bhowmik, B. (2025). EffiCOVID-net: A highly efficient convolutional neural network for COVID-19 diagnosis using chest X-ray imaging. Methods. https://doi.org/10.1016/j.ymeth.2025.04.008
+3. Reddy, M. R. V., Kumar, S., & Bhowmik, B. (2025, February). A Comprehensive Survey on Breast Cancer Diagnostics: From Artificial Intelligence to Quantum Machine Learning. In 2025 3rd International Conference on Intelligent Systems, Advanced Computing and Communication (ISACC) (pp. 1179-1187). IEEE. DOI: 10.1109/ISACC65211.2025.10969410
+4. Chavan, S., Nile, P., Kumar, S., & Bhowmik, B. (2025, February). Taskgraph Framework: A Competitive Alternative to the OpenMP Thread Model. In 2025 3rd International Conference on Intelligent Systems, Advanced Computing and Communication (ISACC) (pp. 343-348). IEEE. DOI: 10.1109/ISACC65211.2025.10969267
+5. Kumar, S., Rathore, R., & Bhowmik, B. (2024, December). Verification of COVIFIND Test Kit for COVID-19. In 2024 IEEE 21st India Council International Conference (INDICON) (pp. 1-6). IEEE. DOI: 10.1109/INDICON63790.2024.10958463
+6. Bhowmik, B., Kumar, S., Raju, S. R., Prakash, A., & Mense, O. (2024, December). Optimizing Split Algorithm Performance: A Heuristic Method for Enhanced Tensor Product Matrix Computations. In 2024 IEEE 21st India Council International Conference (INDICON) (pp. 1-6). IEEE. DOI: 10.1109/INDICON63790.2024.10958524
+7. Kumar, S., & Talib, M. (2024, December). Optimizing Performance of OpenMP Parallel Applications through Variable Classification. In 2024 IEEE 21st India Council International Conference (INDICON) (pp. 1-6). IEEE. DOI: 10.1109/INDICON63790.2024.10958418
+8. Singh, R., Zadokar, V. N., Kumar, S., Doddamani, S. S., & Bhowmik, B. (2024, November). Leveraging Hybrid Modeling for Enhanced Runtime Prediction in Big Data Jobs. In 2024 International Conference on Computing, Semiconductor, Mechatronics, Intelligent Systems and Communications (COSMIC) (pp. 48-53). IEEE. DOI: 10.1109/COSMIC63293.2024.10871292
+9. Nayaka, P. S. J., Kumar, S., Singh, A., & Sohail, M. (2024). MPI for SPH Methods and Parallel Computing on CPUs and GPUs. International Journal of Microsystems and IoT, 2(9), 1162–1169. https://doi.org/10.5281/zenodo.14066770
+10. Kumar, S., Kisku, B., Kumar, S., & Bhowmik, B. (2024, August). Detecting COVID-19 Infection Using Customized Convolutional Neural Network. In 2024 Control Instrumentation System Conference (CISCON) (pp. 1-6). IEEE. DOI: 10.1109/CISCON62171.2024.10696823
+11. Kumar, S., & Bhowmik, B. (2024, June). Automated Segmentation of COVID-19 Infected Lungs via Modified U-Net Model. In 2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT) (pp. 1-7). IEEE. DOI: 10.1109/ICCCNT61001.2024.10724997
+12. Girish, K. K., Kumar, S., & Bhowmik, B. R. (2024). Industry 4.0: Design principles, challenges, and applications. Topics in Artificial Intelligence Applied to Industry 4.0, 39-68.
+13. Kumar, S., & Bhowmik, B. (2023, December). Diagnosis of sars-cov-2 via rapid antigen kits. In 2023 IEEE Technology & Engineering Management Conference-Asia Pacific (TEMSCON-ASPAC) (pp. 1-7). IEEE. DOI: 10.1109/TEMSCON-ASPAC59527.2023.10531579
+14. Kumar, S., & Bhowmik, B. (2024, January). Emergence, evolution, and applications of cyber-physical systems in smart society. In 2024 Fourth International Conference on Advances in Electrical, Computing, Communication and Sustainable Technologies (ICAECT) (pp. 1-8). IEEE. DOI: 10.1109/ICAECT60202.2024.10468864
+15. Kumar, S., & Bhowmik, B. R. (2023). Role of Genomics in Smart Era and Its Application in COVID‐19. Privacy Preservation of Genomic and Medical Data, 73-112.
+16. Kumar, S., & Bhowmik, B. (2023, June). Covid-19 waves and their impacts to society. In 2023 IEEE Guwahati subsection conference (GCON) (pp. 1-5). IEEE. DOI: 10.1109/GCON58516.2023.10183544
+17. Shandilya, S., & Kumar, S. (2023). Time series analysis of stocks using deep learning. In Emerging Trends in IoT and Computing Technologies (pp. 437-442). Routledge.
+18. Kumar, S., Dhir, R., & Chaurasia, N. (2022). Identification of brain tumor detection from MRI image using convolution neural network. J. Tumor Res. 1 J Tumor Res, 8, 1000165.
+19. Kumar, S., Dhir, R., & Chaurasia, N. (2021, March). Brain tumor detection analysis using CNN: a review. In 2021 international conference on artificial intelligence and smart systems (ICAIS) (pp. 1061-1067). IEEE. DOI: 19.1109/ICAIS50930.2021.9395920
+20. Mollah, S., Kumar, S., & Chavan, S. (2021). Design of Innovative LED Mirror by Using Product Design Principles. International Journal of Electrical Machines & Drives, 7(1), 39-48p.
+21. Singh, D., Pazhanisamy, S., Kumar, S., Kumar, A., & Reddy, S. L. (2020). Bio-efficacy of different herbicides in broad spectrum weed management for chickpea. International Journal of Current Microbiology and Applied Sciences, 9(3), 2313-2317.
+22. Kumar, S., Ratnoo, S., & Bala, R. (2020). Enhanced decision tree algorithm for discovery of exceptions In advanced computing and intelligent engineering.
+23. Shandilya, S., Kumar, G., & Kumar, S. K-means clustering algorithm to improve website performance.
 
 - [Data Science Blog](https://medium.com/@shawhin)
 

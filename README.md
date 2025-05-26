@@ -11,7 +11,7 @@
 **Teaching Aassistant @ National Institute of Technology Karnataka, Manglore India (_September 2021_ - Present)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-- 
+  
 **Researcher @ BISAG-N (MeiT) Gov. of India (_June 2021_September 2021)_**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses

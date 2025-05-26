@@ -138,3 +138,14 @@ Used **Matlab** to proposedthe  Convolutional Neural Network (CNN)-based deep le
 [![VIDWAN](https://img.shields.io/badge/VIDWAN-Profile-bluestyle=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAbFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////+xHcqXAAAAIHRSTlMAAQIDBAYICQoNEhYaHiElJicoKjE1Oj5AYXJ7f4SSpKqwtbzMztLV2+D/5kdk1AAAAVtJREFUGNPVzUcWgyAUBuAhJBcRMB0Rhv//1+0CpI3hDOOO4tAYINWNoHPPOFccBGU0V+38pXNTZcgpNYQ3zvH3gLE6G6igNpgBQ8tsgFIt2SrBDA3glHEa0zRW0N1LwCCqhglHyoB1VqMvjEMTjAIAKx6Reo9AwCdAAAAAElFTkSuQmCC)](https://vidwan.inflibnet.ac.in/profile/364554) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-100000?style=flat&logo=Google-Scholar&logoColor=white&labelColor=4285F4)](https://scholar.google.com/citations?user=N45vr-oAAAAJ) [![Web of Science](https://img.shields.io/badge/Web%20of%20Science-Author%20Profile-orange?style=flat&logo=Clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/DBZ-5459-2022) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/sunil19203030)
  [![Scopus](https://img.shields.io/badge/Scopus-Author%20Profile-orange?style=flat&logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=58262702600) [![Loop Profile](https://img.shields.io/badge/Loop-Profile-blue?style=flat&logo=Frontiers&logoColor=white)](https://loop.frontiersin.org/people/3052024/overview) [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=code&logoColor=white)](https://leetcode.com/u/Cubical/)[![Scopus](https://img.shields.io/badge/Scopus-Author%20Profile-orange?style=flat&logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57301747500) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SunilKumar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sunilkr__6) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sunil-Kumar-33136) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16821476) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunilit.iimtgn@gmail.com) 
 
+<h2>📍 Location</h2>
+
+<iframe
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3901.721842867142!2d76.89722411533487!3d12.92560139088959!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba4e6a10fd1d6b5%3A0x50dfd7299c19b1dc!2sNational%20Institute%20of%20Technology%20Karnataka!5e0!3m2!1sen!2sin!4v1615988492742!5m2!1sen!2sin"
+  width="100%"
+  height="300"
+  style="border:0;"
+  allowfullscreen=""
+  loading="lazy">
+</iframe>
+

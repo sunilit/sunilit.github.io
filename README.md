@@ -1,6 +1,11 @@
 # Researcher
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills
+- Programming & Tools:  Python, C, C++, Java, SQL, PHP, AWS, CUDA, MATLAB, DICOM, Biopython, BLAST, UPPAAL, NuSMV.
+- Frameworks & Technologies: TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, NiBabel, NLTK, OpenCV
+
+#### Research Areas
+- Medical Imaging, Deep Learning, Artificial Intelligence, Healthcare Cyber-Physical Systems (CPS), Formal Verification, Machine Learning, DNA/Protein Arrays, Cancer Research, Respiratory Diseases, Bioinformatics, High-Performance Computing (HPC), Internet of Things (IoT)
 
 ## Education
 - Ph.D., CSE | National Institute of Technology Karnataka, Surathkal, India (_September 2021_ - Present)								       		
@@ -9,79 +14,99 @@
 
 ## Work Experience
 **Teaching Aassistant @ National Institute of Technology Karnataka, Surathkal, India (_September 2021_ - Present)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Conduct theory, lab, tutorial, and quiz sessions for C Programming and Python for B.Tech 1st Year students during the Odd semester (July–December).
+- Lead the theory, lab, and quiz components for Compiler Design and Big Data for B.Tech 3rd Year students.
+- Teach High-Performance Computing to M.Tech, M.TR, and Ph.D. 1st Year students, focusing on advanced parallel computing concepts and practical implementations.
+- Mentored B.Tech (3rd nad 4th year) and M.Tech students (1st and 2nd years) on their minor and major projects under the supervision of my research advisor. Provided guidance on project design, implementation, technical writing, and presentation skills across domains such as programming, system design, and high-performance computing.
+
+
   
 **Researcher @ BISAG-N (MeiT) Govt. of India, Gandhinagar, India (_June 2021_September 2021)_**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Identified and resolved a critical flaw in the production data pipeline, enhancing data reliability across more than 70% of active user accounts.
+- Contributed to applied research in medical and geospatial domains using advanced machine learning and cloud-based technologies.
 
 **Teaching Aassistant @ Dr. B.R Ambedkar National Institute of Technology Jalandhar, Punjab India (_August 2019_Agust 2021)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Conduct theory, lab, tutorial, and quiz sessions for C Programming and Software engineering for B.Tech 1st and 2nd Year students during the Odd semester (July–December).
+- Lead the theory, lab, and quiz components for Cloud computing and Data Structure for B.Tech 2nd and 3rd Year students.
+- Teach Deep Leaning to M.Tech 1st Year students, focusing on medical domains and practical implementations.
+- Mentored B.Tech (3rd nad 4th year) on their minor and major projects under the supervision of my research advisor. Provided guidance on project design, implementation, technical writing, and presentation skills across domains such as programming, system design.
+
+**Senior Software Engineer @ KVCH, Noida, India (_Jan 2018_Feb 2019)**
+- Led the design and development of software modules for enterprise applications, ensuring scalability and performance optimization.
+- Collaborated with cross-functional teams to implement end-to-end solutions using modern software engineering practices.
+- Provided technical mentorship to junior developers and contributed to code reviews and process improvements.
+
+**Software Engineer @ Cogent E Service Pvt Ltd, Noida, India (_May 2017_Nov 2017)**
+- Developed and maintained web-based applications to support business operations and customer service platforms.
+- Participated in requirement analysis, system design, and backend development using industry-standard tools and technologies.
+- Collaborated with QA and support teams to ensure software quality and timely delivery.
+
+**Software Engineer Intern @ Geeks for Geeks, Noida, India (_September 2016_March 2017)**
+- Contributed to the development and optimization of educational web content and coding platforms.
+- Assisted in building and testing modules for data structures and algorithms tutorials using Python and JavaScript.
+- Collaborated with senior developers to enhance platform functionality and improve user experience for learners.
 
 ## Projects
 ### ADConv-Net: Advanced Deep Convolution Neural Network for COVID-19 Diagnostics Using Chest X-Ray and CT Images
 [Publication](https://link.springer.com/article/10.1007/s42979-025-03923-4)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Developed objective strategy for discovering X-ray and CT based image on ADConv-Net Framework using DL **Python**. This data-driven approach led to better classification of the underlying image by identifying COVID-19, Normal, Bacterial Pneumonia and Viral Pnuemonia. The proposed method provides a fully automated and flexible approach to capturing key diseases and possibly discovering new indices of lung activity.
 
 ![Abstract Overview](/assets/img/Proposed.png)
 
 ### EffiCOVID-net: A highly efficient convolutional neural network for COVID-19 diagnosis using chest X-ray imaging
 [Publication](https://www.sciencedirect.com/science/article/pii/S1046202325001033?via%3Dihub)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Used **Python** tensorflow to train over lightweigth EffiCOVID-Net model with 10 deep learning models which estimated particulate matter concentrations based on a suite of over X-ray images. We found four class variables can be used to accurately detect and classify COVID-19, Normal and Viral pneumonia. 
 
-![Bike Study](/assets/img/prp.png)
+![Lungs Study](/assets/img/prp.png)
 
 ### Verification of COVIFIND Test Kit for COVID-19
 [Publication](https://ieeexplore.ieee.org/document/10958463)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Used **UPAAL** to design and validates the existing COVFIND rapid antigens tesk kit approved by ICMR. These approach examine the kit arictectures and testing functionalites to check the kit is functioning or not.
 
-![Bike Study](/assets/img/architecture.png)
+![RAT Kits Study](/assets/img/architecture.png)
 
 ### Automated Segmentation of COVID-19 Infected Lungs via Modified U-Net Model
 [Publication](https://ieeexplore.ieee.org/document/10724997)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Used **Python** to automated segmentation framework that dynamically generates distinct and randomized image patches for training using preprocessing techniques and extensive data augmentation. The proposed architecture employs a semantic segmentation approach, ensuring accuracy despite limited data availability. Experimental assessment comprises a visual inspection of the predicted segmentation outcomes. The results exhibit a remarkable Dice coefficient score of 98.3% and an IoU rate surpassing 96.8%, demonstrating the model’s robustness in identifying COVID-19-infected lung regions.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Lungs Study](/assets/img/arch.jpeg)
 
 ### Detecting COVID-19 Infection Using Customized Convolutional Neural Network
 [Publication](https://ieeexplore.ieee.org/document/10696823)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
+Used **Python** proposed a customized deep-learning framework architecture for automatically identifying COVID-19 infection in chest X-ray (CXR) images. Multiple neural networks extract deep features from the CXR images, including popular models such as VGG19, DenseNet201, EfficientNet, MobileNetV2, and InceptionV3. he proposed model achieves classification accuracy of 97.06%, with precision, recall, and F1 score rates for COVID-19 cases recorded at 97.34%, 96.36%, and 97.01%, respectively, for the 4-class cases (COVID vs. Normal vs. Pediatric Bacterial Pneumonia vs. Pediatric Viral Pneumonia).
+![COVID Study](/assets/img/Proposedarch.png)
 
 ### Role of Genomics in Smart Era and Its Application in COVID‐19
 [Publication](https://onlinelibrary.wiley.com/doi/10.1002/9781394213726.ch4)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+The discovery of the genetic roots of human diseases and other complex traits is one of the main goals of genomics, which may lead to the development of treatments and medications. By comparing the genomes of DNA sequencing disorders, researchers can uncover the genes responsible for desirable characteristics such as improved genetics, disease resistance, and better efficiency. This information is essential to develop populations of organisms better adaptable to evolving biological conditions. This chapter provides an overview of genomics, including its background, key attributes, and various types and application areas.
 
-![Genome Study](/assets/img/AI.png)
+![Genome Study](/assets/img/Historygenome.png)
 
 ### Brain Tumor Detection Analysis Using CNN
 [Publication](https://ieeexplore.ieee.org/document/9395920)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Used **Matlab** to proposedthe  Convolutional Neural Network (CNN)-based deep learning techniques for the detection and classification of brain tumors. The proposed approach focuses on distinguishing between benign and malignant tumors by leveraging the feature extraction capabilities of CNN architectures. It also demonstrates how CNN models can effectively classify different types of brain tumors using labeled medical imaging datasets, thereby aiding in early diagnosis and treatment planning.
 
 ![Tumor Study](/assets/img/CNNModel.png)
 
 
 
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+## Awards
+- Earned the Best Paper Award at the IEEE GCON, 2023.
+- Recipient of MHRD Scholarship, Govt. of India as NIT Karnataka Institute Assistantship for Doctoral Programme, September 2021 – September 2026.
+- Recievd a First Prize for Research Ethics Compettion organized by IEEE TEMSCON ASPAC 2024.
+- Recipient of Project Fellow Assistantship sponsored by BISAG-N, MeitY, Govt. of India, May 2021 – September 2021.
+- Guest Lecture: Deep Learning and Machine Learning for Scientific Discovery, organized by ISRO at BISAG-N 2021.
+- Earned the Best Paper Award at the IEEE ICAIS, 2021.
+- Recipient of MHRD Scholarship, Govt. of India, as NIT Jalandhar Institute Assistantship for Post Graduation, August 2019 – June 2021.
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
 1. Kumar, S., & Bhowmik, B. (2025). ADConv-Net: Advanced Deep Convolution Neural Network for COVID-19 Diagnostics Using Chest X-Ray and CT Images. SN Computer Science, 6(5), 1-22. https://doi.org/10.1007/s42979-025-03923-4

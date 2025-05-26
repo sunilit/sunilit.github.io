@@ -1,4 +1,4 @@
-# Researcher
+# Research Scholar
 
 #### Technical Skills
 - Programming & Tools:  Python, C, C++, Java, SQL, PHP, AWS, CUDA, MATLAB, DICOM, Biopython, BLAST, UPPAAL, NuSMV.

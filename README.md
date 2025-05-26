@@ -21,19 +21,57 @@
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### ADConv-Net: Advanced Deep Convolution Neural Network for COVID-19 Diagnostics Using Chest X-Ray and CT Images
+[Publication](https://link.springer.com/article/10.1007/s42979-025-03923-4)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### EffiCOVID-net: A highly efficient convolutional neural network for COVID-19 diagnosis using chest X-ray imaging
+[Publication](https://www.sciencedirect.com/science/article/pii/S1046202325001033?via%3Dihub)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
+
+### Verification of COVIFIND Test Kit for COVID-19
+[Publication](https://ieeexplore.ieee.org/document/10958463)
+
+Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+
+![Bike Study](/assets/img/bike_study.jpeg)
+
+### Automated Segmentation of COVID-19 Infected Lungs via Modified U-Net Model
+[Publication](https://ieeexplore.ieee.org/document/10724997)
+
+Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+
+![Bike Study](/assets/img/bike_study.jpeg)
+
+### Detecting COVID-19 Infection Using Customized Convolutional Neural Network
+[Publication](https://ieeexplore.ieee.org/document/10696823)
+
+Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+
+![Bike Study](/assets/img/bike_study.jpeg)
+
+### Role of Genomics in Smart Era and Its Application in COVID‐19
+[Publication](https://onlinelibrary.wiley.com/doi/10.1002/9781394213726.ch4)
+
+Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+
+![Bike Study](/assets/img/bike_study.jpeg)
+
+### Brain Tumor Detection Analysis Using CNN
+[Publication](https://ieeexplore.ieee.org/document/9395920)
+
+Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+
+![Bike Study](/assets/img/bike_study.jpeg)
+
+
+
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
@@ -70,5 +108,8 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 22. Kumar, S., Ratnoo, S., & Bala, R. (2020). Enhanced decision tree algorithm for discovery of exceptions In advanced computing and intelligent engineering.
 23. Shandilya, S., Kumar, G., & Kumar, S. K-means clustering algorithm to improve website performance.
 
-- [Data Science Blog](https://medium.com/@shawhin)
+## 🌐 Socials:
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Sunil-Kumar-388?ev=hdr_xprf)[![CPS Lab](https://img.shields.io/badge/CPS%20Lab-Visit-blue?style=flat&logo=google&logoColor=white)](https://sites.google.com/view/vicayana-gaveshana/labs/cps-lab)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cpsmedicalresearch) [![ORCID](https://img.shields.io/badge/ORCID-000000?style=flat&logo=ORCID&logoColor=white&labelColor=A6CE39)](https://orcid.org/0000-0002-4883-1191)
+[![VIDWAN](https://img.shields.io/badge/VIDWAN-Profile-bluestyle=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAbFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////+xHcqXAAAAIHRSTlMAAQIDBAYICQoNEhYaHiElJicoKjE1Oj5AYXJ7f4SSpKqwtbzMztLV2+D/5kdk1AAAAVtJREFUGNPVzUcWgyAUBuAhJBcRMB0Rhv//1+0CpI3hDOOO4tAYINWNoHPPOFccBGU0V+38pXNTZcgpNYQ3zvH3gLE6G6igNpgBQ8tsgFIt2SrBDA3glHEa0zRW0N1LwCCqhglHyoB1VqMvjEMTjAIAKx6Reo9AwCdAAAAAElFTkSuQmCC)](https://vidwan.inflibnet.ac.in/profile/364554) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-100000?style=flat&logo=Google-Scholar&logoColor=white&labelColor=4285F4)](https://scholar.google.com/citations?user=N45vr-oAAAAJ) [![Web of Science](https://img.shields.io/badge/Web%20of%20Science-Author%20Profile-orange?style=flat&logo=Clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/DBZ-5459-2022) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/sunil19203030)
+ [![Scopus](https://img.shields.io/badge/Scopus-Author%20Profile-orange?style=flat&logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=58262702600) [![Loop Profile](https://img.shields.io/badge/Loop-Profile-blue?style=flat&logo=Frontiers&logoColor=white)](https://loop.frontiersin.org/people/3052024/overview) [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=code&logoColor=white)](https://leetcode.com/u/Cubical/)[![Scopus](https://img.shields.io/badge/Scopus-Author%20Profile-orange?style=flat&logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57301747500) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SunilKumar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sunilkr__6) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sunil-Kumar-33136) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16821476) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunilit.iimtgn@gmail.com) 
 

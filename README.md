@@ -3,12 +3,12 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., CSE | National Institute of Technology Karnataka (_September 2021_- Present_)								       		
+- Ph.D., CSE | National Institute of Technology Karnataka (_September 2021_- Present)								       		
 - M.Tech., CSE | Dr. B.R Ambedkar National Institute of Technology Jalandhar, Punjab, India (_August 2019_August 2021_)	 			        		
 - B.Tech., IT | IIMT Groupe of Colleges, G.Noida , India (_June 2012_July 2016_)
 
 ## Work Experience
-**Teaching Aassistant @ National Institute of Technology Karnataka, Manglore India (_September 2021_ - Present_)**
+**Teaching Aassistant @ National Institute of Technology Karnataka, Manglore India (_September 2021_ - Present)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 - 

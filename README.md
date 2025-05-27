@@ -147,8 +147,6 @@ Applied CNN-based deep learning approach for brain tumor detection and classific
 - **Office**: Room No. 506, Dr. B.R. Bhowmik Lab (BRICS),  5th Floor (Right Wing), Department of CSE,
 National Institute of Technology Karnataka (NITK), Surathkal, Mangalore – 575025, India
 
-## 📍 Location:
-
 [![Map](https://img.shields.io/badge/View%20on%20Map-Google%20Maps-blue?logo=google-maps)](https://maps.app.goo.gl/54DFtbiSe4wm4miz6)
 
 

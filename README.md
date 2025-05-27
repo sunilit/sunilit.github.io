@@ -1,23 +1,23 @@
 # Research Scholar
 
 #### Technical Skills
-- Programming & Tools:  Python, C, C++, Java, SQL, PHP, AWS, CUDA, MATLAB, DICOM, Biopython, BLAST, UPPAAL, NuSMV.
-- Frameworks & Technologies: TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, NiBabel, NLTK, OpenCV
+- **Programming & Tools:**  Python, C, C++, Java, SQL, PHP, AWS, CUDA, MATLAB, DICOM, Biopython, BLAST, UPPAAL, NuSMV.
+- **Frameworks & Technologies:** TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, NiBabel, NLTK, OpenCV
 
 #### Research Areas
 - Medical Imaging, Deep Learning, Artificial Intelligence, Healthcare Cyber-Physical Systems (CPS), Formal Verification, Machine Learning, DNA/Protein Arrays, Cancer Research, Respiratory Diseases, Bioinformatics, High-Performance Computing (HPC), Internet of Things (IoT)
 
 ## Education
 - Ph.D., CSE | National Institute of Technology Karnataka, Surathkal, India (_September 2021_ - Present)								       		
-- M.Tech., CSE | Dr. B.R Ambedkar National Institute of Technology Jalandhar, Punjab, India (_August 2019_August 2021_)	 			        		
-- B.Tech., IT | IIMT Groupe of Colleges, G.Noida , India (_June 2012_July 2016_)
+- M.Tech., CSE | Dr. B.R Ambedkar National Institute of Technology Jalandhar, Punjab, India (_August 2019_ - August 2021)	 			        		
+- B.Tech., IT | IIMT Groupe of Colleges, G.Noida , India (_July 2012_ - July 2016)
 
 ## Work Experience
-**Teaching Aassistant @ National Institute of Technology Karnataka, Surathkal, India (_September 2021_ - Present)**
+**Teaching Assistant @ National Institute of Technology Karnataka, Surathkal, India (_September 2021_ - Present)**
 - Conduct theory, lab, tutorial, and quiz sessions for C Programming and Python for B.Tech 1st Year students during the Odd semester (July–December).
-- Lead the theory, lab, and quiz components for Compiler Design and Big Data for B.Tech 3rd Year students.
-- Teach High-Performance Computing to M.Tech, M.TR, and Ph.D. 1st Year students, focusing on advanced parallel computing concepts and practical implementations.
-- Mentored B.Tech (3rd nad 4th year) and M.Tech students (1st and 2nd years) on their minor and major projects under the supervision of my research advisor. Provided guidance on project design, implementation, technical writing, and presentation skills across domains such as programming, system design, and high-performance computing.
+- Lead the theory, lab, and quiz components for Compiler Design and Big Data for B.Tech 3rd-year students.
+- Teach High-Performance Computing to M.Tech, M.TR, and Ph.D. 1st Year students focusing on advanced parallel computing concepts and practical implementations.
+- Mentored B.Tech (3rd and 4th year) and M.Tech students (1st and 2nd years) on their minor and major projects under the supervision of my research advisor. Guided project design, implementation, technical writing, and presentation skills across programming, system design, and high-performance computing domains.
 
 
   
@@ -25,11 +25,11 @@
 - Identified and resolved a critical flaw in the production data pipeline, enhancing data reliability across more than 70% of active user accounts.
 - Contributed to applied research in medical and geospatial domains using advanced machine learning and cloud-based technologies.
 
-**Teaching Aassistant @ Dr. B.R Ambedkar National Institute of Technology Jalandhar, Punjab India (_August 2019_Agust 2021)**
+**Teaching Assistant @ Dr. B.R Ambedkar National Institute of Technology Jalandhar, Punjab India (_August 2019_Agust 2021)**
 - Conduct theory, lab, tutorial, and quiz sessions for C Programming and Software engineering for B.Tech 1st and 2nd Year students during the Odd semester (July–December).
 - Lead the theory, lab, and quiz components for Cloud computing and Data Structure for B.Tech 2nd and 3rd Year students.
-- Teach Deep Leaning to M.Tech 1st Year students, focusing on medical domains and practical implementations.
-- Mentored B.Tech (3rd nad 4th year) on their minor and major projects under the supervision of my research advisor. Provided guidance on project design, implementation, technical writing, and presentation skills across domains such as programming, system design.
+- Teach Deep Learning to M.Tech 1st Year students, focusing on medical domains and practical implementations.
+- Mentored B.Tech (3rd and 4th year) on their minor and major projects under the supervision of my research advisor. Guided project design, implementation, technical writing, and presentation skills across programming and system design domains.
 
 **Senior Software Engineer @ KVCH, Noida, India (_Jan 2018_Feb 2019)**
 - Led the design and development of software modules for enterprise applications, ensuring scalability and performance optimization.
@@ -42,7 +42,7 @@
 - Collaborated with QA and support teams to ensure software quality and timely delivery.
 
 **Software Engineer Intern @ Geeks for Geeks, Noida, India (_September 2016_March 2017)**
-- Contributed to the development and optimization of educational web content and coding platforms.
+- Contributed to developing and optimizing educational web content and coding platforms.
 - Assisted in building and testing modules for data structures and algorithms tutorials using Python and JavaScript.
 - Collaborated with senior developers to enhance platform functionality and improve user experience for learners.
 
@@ -50,48 +50,49 @@
 ### ADConv-Net: Advanced Deep Convolution Neural Network for COVID-19 Diagnostics Using Chest X-Ray and CT Images
 [Publication](https://link.springer.com/article/10.1007/s42979-025-03923-4)
 
-Developed objective strategy for discovering X-ray and CT based image on ADConv-Net Framework using DL. This data-driven approach led to better classification of the underlying image by identifying COVID-19, Normal, Bacterial Pneumonia and Viral Pnuemonia. The proposed method provides a fully automated and flexible approach to capturing key diseases and possibly discovering new indices of lung activity.
+Developed an objective strategy for identifying COVID-19, Normal, Bacterial Pneumonia, and Viral Pneumonia using a deep learning-based ADConv-Net framework on X-ray and CT images. The proposed data-driven model provides a fully automated and flexible approach to capturing key lung disease patterns and discovering new indicators of pulmonary activity.
 
 ![Abstract Overview](/assets/img/Proposed.png)
 
-### EffiCOVID-net: A highly efficient convolutional neural network for COVID-19 diagnosis using chest X-ray imaging
+### EffiCOVID-Net: A Highly Efficient Convolutional Neural Network for COVID-19 Diagnosis Using Chest X-Ray Imaging
 [Publication](https://www.sciencedirect.com/science/article/pii/S1046202325001033?via%3Dihub)
 
-Used **Python** to train over lightweigth EffiCOVID-Net model with 10 deep learning models which estimated particulate matter concentrations based on a suite of over X-ray images. We found four class variables can be used to accurately detect and classify COVID-19, Normal and Viral pneumonia. 
+Implemented a lightweight EffiCOVID-Net model in Python, incorporating EffiCOVID block to classify chest X-ray images. The model accurately distinguished between COVID-19, Normal, and Viral Pneumonia classes.
 
 ![Lungs Study](/assets/img/prp.png)
 
 ### Verification of COVIFIND Test Kit for COVID-19
 [Publication](https://ieeexplore.ieee.org/document/10958463)
 
-Used **UPAAL** to design and validates the existing COVFIND rapid antigens tesk kit approved by ICMR. These approach examine the kit arictectures and testing functionalites to check the kit is functioning or not.
+Utilized UPPAAL to model and verify the architecture and functionality of the COVIFIND rapid antigen test kit, which ICMR approved. This formal verification approach ensures the kit’s reliability and correctness in detecting COVID-19 infections.
 
 ![RAT Kits Study](/assets/img/architecture.png)
 
 ### Automated Segmentation of COVID-19 Infected Lungs via Modified U-Net Model
 [Publication](https://ieeexplore.ieee.org/document/10724997)
 
-Used **Python** to automated segmentation framework that dynamically generates distinct and randomized image patches for training using preprocessing techniques and extensive data augmentation. The proposed architecture employs a semantic segmentation approach, ensuring accuracy despite limited data availability. Experimental assessment comprises a visual inspection of the predicted segmentation outcomes. The results exhibit a remarkable Dice coefficient score of 98.3% and an IoU rate surpassing 96.8%, demonstrating the model’s robustness in identifying COVID-19-infected lung regions.
+Proposed an automated lung segmentation framework using Python and a modified U-Net model. The system dynamically generates randomized image patches with extensive data augmentation. The semantic segmentation approach achieved a Dice coefficient of 98.3% and an IoU of 96.8%, ensuring robust detection of COVID-19-infected lung regions.
 
 ![Lungs Study](/assets/img/arch.jpeg)
 
 ### Detecting COVID-19 Infection Using Customized Convolutional Neural Network
 [Publication](https://ieeexplore.ieee.org/document/10696823)
 
-Used **Python** proposed a customized deep-learning framework architecture for automatically identifying COVID-19 infection in chest X-ray (CXR) images. Multiple neural networks extract deep features from the CXR images, including popular models such as VGG19, DenseNet201, EfficientNet, MobileNetV2, and InceptionV3. he proposed model achieves classification accuracy of 97.06%, with precision, recall, and F1 score rates for COVID-19 cases recorded at 97.34%, 96.36%, and 97.01%, respectively, for the 4-class cases (COVID vs. Normal vs. Pediatric Bacterial Pneumonia vs. Pediatric Viral Pneumonia).
+Designed a customized deep learning framework in Python for classifying chest X-ray images into four classes: COVID-19, Normal, Pediatric Bacterial Pneumonia, and Pediatric Viral Pneumonia. Leveraged popular models including VGG19, DenseNet201, EfficientNet, MobileNetV2, and InceptionV3. Achieved 97.06% accuracy, with a precision of 97.34%, recall of 96.36%, and F1-score of 97.01%.
+
 ![COVID Study](/assets/img/Proposedarch.png)
 
-### Role of Genomics in Smart Era and Its Application in COVID‐19
+### Role of Genomics in the Smart Era and Its Application in COVID‐19
 [Publication](https://onlinelibrary.wiley.com/doi/10.1002/9781394213726.ch4)
 
-The discovery of the genetic roots of human diseases and other complex traits is one of the main goals of genomics, which may lead to the development of treatments and medications. By comparing the genomes of DNA sequencing disorders, researchers can uncover the genes responsible for desirable characteristics such as improved genetics, disease resistance, and better efficiency. This information is essential to develop populations of organisms better adaptable to evolving biological conditions. This chapter provides an overview of genomics, including its background, key attributes, and various types and application areas.
+Explores the genetic underpinnings of human diseases and complex traits. Emphasizes how comparative genomic studies and DNA sequencing can advance disease resistance, treatment development, and population adaptability. The chapter provides an overview of genomics fundamentals and its various application areas.
 
 ![Genome Study](/assets/img/Historygenome.png)
 
 ### Brain Tumor Detection Analysis Using CNN
 [Publication](https://ieeexplore.ieee.org/document/9395920)
 
-Used **Matlab** to proposedthe  Convolutional Neural Network (CNN)-based deep learning techniques for the detection and classification of brain tumors. The proposed approach focuses on distinguishing between benign and malignant tumors by leveraging the feature extraction capabilities of CNN architectures. It also demonstrates how CNN models can effectively classify different types of brain tumors using labeled medical imaging datasets, thereby aiding in early diagnosis and treatment planning.
+Applied CNN-based deep learning approach for brain tumor detection and classification. The system distinguishes between benign and malignant tumors and effectively classifies different types using labeled medical imaging datasets—supporting early diagnosis and treatment planning.
 
 ![Tumor Study](/assets/img/CNNModel.png)
 
@@ -101,7 +102,7 @@ Used **Matlab** to proposedthe  Convolutional Neural Network (CNN)-based deep le
 ## Awards
 - Earned the Best Paper Award at the IEEE GCON, 2023.
 - Recipient of MHRD Scholarship, Govt. of India as NIT Karnataka Institute Assistantship for Doctoral Programme, September 2021 – September 2026.
-- Recievd a First Prize for Research Ethics Compettion organized by IEEE TEMSCON ASPAC 2024.
+- Received a First Prize in the Research Ethics Competition organized by IEEE TEMSCON ASPAC 2024.
 - Recipient of Project Fellow Assistantship sponsored by BISAG-N, MeitY, Govt. of India, May 2021 – September 2021.
 - Guest Lecture: Deep Learning and Machine Learning for Scientific Discovery, organized by ISRO at BISAG-N 2021.
 - Earned the Best Paper Award at the IEEE ICAIS, 2021.
@@ -138,12 +139,12 @@ Used **Matlab** to proposedthe  Convolutional Neural Network (CNN)-based deep le
 [![VIDWAN](https://img.shields.io/badge/VIDWAN-Profile-bluestyle=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAbFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////+xHcqXAAAAIHRSTlMAAQIDBAYICQoNEhYaHiElJicoKjE1Oj5AYXJ7f4SSpKqwtbzMztLV2+D/5kdk1AAAAVtJREFUGNPVzUcWgyAUBuAhJBcRMB0Rhv//1+0CpI3hDOOO4tAYINWNoHPPOFccBGU0V+38pXNTZcgpNYQ3zvH3gLE6G6igNpgBQ8tsgFIt2SrBDA3glHEa0zRW0N1LwCCqhglHyoB1VqMvjEMTjAIAKx6Reo9AwCdAAAAAElFTkSuQmCC)](https://vidwan.inflibnet.ac.in/profile/364554) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-100000?style=flat&logo=Google-Scholar&logoColor=white&labelColor=4285F4)](https://scholar.google.com/citations?user=N45vr-oAAAAJ) [![Web of Science](https://img.shields.io/badge/Web%20of%20Science-Author%20Profile-orange?style=flat&logo=Clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/DBZ-5459-2022) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/sunil19203030)
  [![Scopus](https://img.shields.io/badge/Scopus-Author%20Profile-orange?style=flat&logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=58262702600) [![Loop Profile](https://img.shields.io/badge/Loop-Profile-blue?style=flat&logo=Frontiers&logoColor=white)](https://loop.frontiersin.org/people/3052024/overview) [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=code&logoColor=white)](https://leetcode.com/u/Cubical/)[![Scopus](https://img.shields.io/badge/Scopus-Author%20Profile-orange?style=flat&logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57301747500)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunilit.iimtgn@gmail.com) 
 
- ### 📬 Contact Us
+ ## 📬 Contact Us
 
 - **Name:** Sunil Kumar
 - Research Scholar
 - **Email:** [sunilk.217cs010@nitk.edu.in](mailto:sunilk.217cs010@nitk.edu.in), [sunilit.iimtgn@ngmail.com](mailto:sunilit.iimtgn@ngmail.com)
-- How to reach me ... Room No. 506, Dr. B.R.B Lab (BRICS), 5th Floor for right-wing, Department of CSE National Institute of Technology Karnataka, Surathkal, Nanglore, 575025, India
+- How to reach me -> Room No. 506, Dr. B.R.B Lab (BRICS), 5th Floor for right-wing, Department of CSE National Institute of Technology Karnataka, Surathkal, Nanglore, 575025, India
 
 
 ### 📍 Location

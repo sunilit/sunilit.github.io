@@ -145,7 +145,7 @@ Applied CNN-based deep learning approach for brain tumor detection and classific
  - **Position:** Research Scholar
  - **Email:** [sunilk.217cs010@nitk.edu.in](mailto:sunilk.217cs010@nitk.edu.in), [sunilit.iimtgn@ngmail.com](mailto:sunilit.iimtgn@ngmail.com)
  - **Office:** Room No. 506, Dr. B.R. Bhowmik Lab (BRICS), 5th Floor (Right Wing), Department of Computer Science and Engineering,
-National Institute of Technology Karnataka (NITK), Surathkal, Mangalore, 575025, India
+ - National Institute of Technology Karnataka (NITK), Surathkal, Mangalore, 575025, India
  
 
 

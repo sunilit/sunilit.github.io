@@ -139,17 +139,6 @@ Applied CNN-based deep learning approach for brain tumor detection and classific
 [![VIDWAN](https://img.shields.io/badge/VIDWAN-Profile-bluestyle=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAbFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////+xHcqXAAAAIHRSTlMAAQIDBAYICQoNEhYaHiElJicoKjE1Oj5AYXJ7f4SSpKqwtbzMztLV2+D/5kdk1AAAAVtJREFUGNPVzUcWgyAUBuAhJBcRMB0Rhv//1+0CpI3hDOOO4tAYINWNoHPPOFccBGU0V+38pXNTZcgpNYQ3zvH3gLE6G6igNpgBQ8tsgFIt2SrBDA3glHEa0zRW0N1LwCCqhglHyoB1VqMvjEMTjAIAKx6Reo9AwCdAAAAAElFTkSuQmCC)](https://vidwan.inflibnet.ac.in/profile/364554) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-100000?style=flat&logo=Google-Scholar&logoColor=white&labelColor=4285F4)](https://scholar.google.com/citations?user=N45vr-oAAAAJ) [![Web of Science](https://img.shields.io/badge/Web%20of%20Science-Author%20Profile-orange?style=flat&logo=Clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/DBZ-5459-2022) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/sunil19203030)
  [![Scopus](https://img.shields.io/badge/Scopus-Author%20Profile-orange?style=flat&logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=58262702600) [![Loop Profile](https://img.shields.io/badge/Loop-Profile-blue?style=flat&logo=Frontiers&logoColor=white)](https://loop.frontiersin.org/people/3052024/overview) [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=code&logoColor=white)](https://leetcode.com/u/Cubical/)[![Scopus](https://img.shields.io/badge/Scopus-Author%20Profile-orange?style=flat&logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57301747500)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunilit.iimtgn@gmail.com) 
 
- ## 📬 Contact:
-
-- **Name**: Sunil Kumar  
-- **Position**: Research Scholar 
-- **Email**: [sunilk.217cs010@nitk.edu.in](mailto:sunilk.217cs010@nitk.edu.in) [sunilit.iimtgn@gmail.com](mailto:sunilit.iimtgn@gmail.com)  
-- **Office**: Room No. 506, Dr. B.R. Bhowmik Lab (BRICS),  5th Floor (Right Wing), Department of CSE,
-National Institute of Technology Karnataka (NITK), Surathkal, Mangalore – 575025, India
- 
-
-
-
 ## 📍 Location:
 
 - **Name**: Sunil Kumar  
@@ -157,6 +146,8 @@ National Institute of Technology Karnataka (NITK), Surathkal, Mangalore – 5750
 - **Email**: [sunilk.217cs010@nitk.edu.in](mailto:sunilk.217cs010@nitk.edu.in) [sunilit.iimtgn@gmail.com](mailto:sunilit.iimtgn@gmail.com)  
 - **Office**: Room No. 506, Dr. B.R. Bhowmik Lab (BRICS),  5th Floor (Right Wing), Department of CSE,
 National Institute of Technology Karnataka (NITK), Surathkal, Mangalore – 575025, India
+
+## 📍 Location:
 
 [![Map](https://img.shields.io/badge/View%20on%20Map-Google%20Maps-blue?logo=google-maps)](https://maps.app.goo.gl/54DFtbiSe4wm4miz6)
 

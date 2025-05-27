@@ -1,7 +1,7 @@
 # Research Scholar
 
 #### Technical Skills
-- **Programming & Tools:**  Python, C, C++, Java, SQL, PHP, AWS, CUDA, MATLAB, DICOM, Biopython, BLAST, UPPAAL, NuSMV.
+- **Programming & Tools:**  Python, C, C++, Java, SQL, PHP, AWS, CUDA, MATLAB, DICOM, Biopython, BLAST, UPPAAL, NuSMV
 - **Frameworks & Technologies:** TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, NiBabel, NLTK, OpenCV
 
 #### Research Areas
@@ -100,7 +100,7 @@ Applied CNN-based deep learning approach for brain tumor detection and classific
 
 
 ## Awards
-- Earned the Best Paper Award at the IEEE GCON, 2023.
+- Earned the Best Paper Award at the IEEE GCON, 2023
 - Recipient of MHRD Scholarship, Govt. of India as NIT Karnataka Institute Assistantship for Doctoral Programme, September 2021 – September 2026.
 - Received a First Prize in the Research Ethics Competition organized by IEEE TEMSCON ASPAC 2024.
 - Recipient of Project Fellow Assistantship sponsored by BISAG-N, MeitY, Govt. of India, May 2021 – September 2021.

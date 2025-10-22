@@ -48,6 +48,11 @@
 
 ## Projects
 
+### Machine Learning Framework for Classification of COVID‐19 Variants Using K‐mer Based DNA Sequencing
+[Publication](https://doi.org/10.1002/ima.70231)
+
+
+
 ### ADConv-Net: Advanced Deep Convolution Neural Network for COVID-19 Diagnostics Using Chest X-Ray and CT Images
 [Publication](https://link.springer.com/article/10.1007/s42979-025-03923-4)
 

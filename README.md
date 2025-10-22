@@ -111,7 +111,7 @@ Applied CNN-based deep learning approach for brain tumor detection and classific
 
 ## Publications
 
-#### Journal
+### Journal
 
 1. Kumar, S., Raju, S., & Bhowmik, B. (2025). Machine Learning Framework for Classification of COVID-19 Variants Using K-mer Based DNA Sequencing. International Journal of Imaging Systems and Technology. 35(6), 1-13. https://doi.org/10.1002/ima.70231
 2. Kumar, S., & Bhowmik, B. (2025). ADConv-Net: Advanced Deep Convolution Neural Network for COVID-19 Diagnostics Using Chest X-Ray and CT Images. SN Computer Science, 6(5), 1-22. https://doi.org/10.1007/s42979-025-03923-4
@@ -119,7 +119,7 @@ Applied CNN-based deep learning approach for brain tumor detection and classific
 4. Nayaka, P. S. J., Kumar, S., Singh, A., & Sohail, M. (2024). MPI for SPH Methods and Parallel Computing on CPUs and GPUs. International Journal of Microsystems and IoT, 2(9), 1162–1169. https://doi.org/10.5281/zenodo.14066770
 5. Kumar, S., Dhir, R., & Chaurasia, N. (2022). Identification of brain tumor detection from MRI image using convolution neural network. J. Tumor Res. 1 J Tumor Res, 8, 1000165.
 
-#### Conference
+### Conference
 
 1. Reddy, M. R. V., Kumar, S., & Bhowmik, B. (2025, February). A Comprehensive Survey on Breast Cancer Diagnostics: From Artificial Intelligence to Quantum Machine Learning. In 2025 3rd International Conference on Intelligent Systems, Advanced Computing and Communication (ISACC) (pp. 1179-1187). IEEE. DOI: 10.1109/ISACC65211.2025.10969410
 2. Bhowmik, B., Kumar, S., Birla, Pawan & Mishra, Himanshu. (2025, March). Harmonizing MPI-3 Shared Memory and C11/C++11: A Progressive Hybrid Approach to Parallel Computing. In International Conference on Communication, Control, and Intelligent Systems (CCIS), Mathura, India, 2024, pp. 1-6. IEEE. DOI: 10.1109/CCIS63231.2024.10932120
@@ -141,7 +141,7 @@ Applied CNN-based deep learning approach for brain tumor detection and classific
 18. Kumar, S., Ratnoo, S., & Bala, R. (2020). Enhanced decision tree algorithm for discovery of exceptions In advanced computing and intelligent engineering.
 19. Shandilya, S., Kumar, G., & Kumar, S. K-means clustering algorithm to improve website performance.
 
-#### Book Chapter
+### Book Chapter
 
 1. Girish, K. K., Kumar, S., & Bhowmik, B. R. (2024). Industry 4.0: Design principles, challenges, and applications. Topics in Artificial Intelligence Applied to Industry 4.0, 39-68.
 2. Kumar, S., & Bhowmik, B. R. (2023). Role of Genomics in Smart Era and Its Application in COVID‐19. Privacy Preservation of Genomic and Medical Data, 73-112.

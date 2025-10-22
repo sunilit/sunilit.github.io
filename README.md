@@ -21,27 +21,27 @@
 
 
   
-**Researcher @ BISAG-N (MeiT) Govt. of India, Gandhinagar, India (_June 2021_ September 2021)**
+**Researcher @ BISAG-N (MeiT) Govt. of India, Gandhinagar, India (_June 2021_ - September 2021)**
 - Identified and resolved a critical flaw in the production data pipeline, enhancing data reliability across more than 70% of active user accounts.
 - Contributed to applied research in medical and geospatial domains using advanced machine learning and cloud-based technologies.
 
-**Teaching Assistant @ Dr. B.R Ambedkar National Institute of Technology Jalandhar, Punjab India (_August 2019_ Agust 2021)_**
+**Teaching Assistant @ Dr. B.R Ambedkar National Institute of Technology Jalandhar, Punjab India (_August 2019_ - Agust 2021)**
 - Conduct theory, lab, tutorial, and quiz sessions for C Programming and Software engineering for B.Tech 1st and 2nd Year students during the Odd semester (July–December).
 - Lead the theory, lab, and quiz components for Cloud computing and Data Structure for B.Tech 2nd and 3rd Year students.
 - Teach Deep Learning to M.Tech 1st Year students, focusing on medical domains and practical implementations.
 - Mentored B.Tech (3rd and 4th year) on their minor and major projects under the supervision of my research advisor. Guided project design, implementation, technical writing, and presentation skills across programming and system design domains.
 
-**Senior Software Engineer @ KVCH, Noida, India (_Jan 2018_ Feb 2019)**
+**Senior Software Engineer @ KVCH, Noida, India (_Jan 2018_ - Feb 2019)**
 - Led the design and development of software modules for enterprise applications, ensuring scalability and performance optimization.
 - Collaborated with cross-functional teams to implement end-to-end solutions using modern software engineering practices.
 - Provided technical mentorship to junior developers and contributed to code reviews and process improvements.
 
-**Software Engineer @ Cogent E Service Pvt Ltd, Noida, India (_May 2017_ Nov 2017)**
+**Software Engineer @ Cogent E Service Pvt Ltd, Noida, India (_May 2017_ - Nov 2017)**
 - Developed and maintained web-based applications to support business operations and customer service platforms.
 - Participated in requirement analysis, system design, and backend development using industry-standard tools and technologies.
 - Collaborated with QA and support teams to ensure software quality and timely delivery.
 
-**Software Engineer Intern @ Geeks for Geeks, Noida, India (_September 2016_ March 2017)**
+**Software Engineer Intern @ Geeks for Geeks, Noida, India (_September 2016_ - March 2017)**
 - Contributed to developing and optimizing educational web content and coding platforms.
 - Assisted in building and testing modules for data structures and algorithms tutorials using Python and JavaScript.
 - Collaborated with senior developers to enhance platform functionality and improve user experience for learners.

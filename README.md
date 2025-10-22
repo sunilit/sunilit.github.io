@@ -116,7 +116,7 @@ Applied CNN-based deep learning approach for brain tumor detection and classific
 
 1. Kumar, S., Raju, S., & Bhowmik, B. (2025). Machine Learning Framework for Classification of COVID-19 Variants Using K-mer Based DNA Sequencing. International Journal of Imaging Systems and Technology. 35(6), 1-13. https://doi.org/10.1002/ima.70231
 2. Kumar, S., & Bhowmik, B. (2025). ADConv-Net: Advanced Deep Convolution Neural Network for COVID-19 Diagnostics Using Chest X-Ray and CT Images. SN Computer Science, 6(5), 1-22. https://doi.org/10.1007/s42979-025-03923-4
-3. Kumar, S., & Bhowmik, B. (2025). EffiCOVID-net: A highly efficient convolutional neural network for COVID-19 diagnosis using chest X-ray imaging. Methods, 240(2025), 81-100, [https://doi.org/10.1016/j.ymeth.2025.04.008] (https://doi.org/10.1016/j.ymeth.2025.04.008)
+3. Kumar, S., & Bhowmik, B. (2025). EffiCOVID-net: A highly efficient convolutional neural network for COVID-19 diagnosis using chest X-ray imaging. Methods, 240(2025), 81-100, https://doi.org/10.1016/j.ymeth.2025.04.008
 4. Nayaka, P. S. J., Kumar, S., Singh, A., & Sohail, M. (2024). MPI for SPH Methods and Parallel Computing on CPUs and GPUs. International Journal of Microsystems and IoT, 2(9), 1162–1169. https://doi.org/10.5281/zenodo.14066770
 5. Kumar, S., Dhir, R., & Chaurasia, N. (2022). Identification of brain tumor detection from MRI image using convolution neural network. J. Tumor Res. 1 J Tumor Res, 8, 1000165.
 

@@ -51,7 +51,8 @@
 ### Machine Learning Framework for Classification of COVID‐19 Variants Using K‐mer Based DNA Sequencing
 [Publication](https://doi.org/10.1002/ima.70231)
 
-
+Developed a machine learning framework for classifying DNA sequences of COVID-19 variants using K-mer-based tokenization and vectorization techniques inspired by Natural Language Processing (NLP). DNA sequences corresponding to Alpha, Beta, Gamma, and Omicron variants are obtained from the Global Initiative on Sharing All Influenza Data (GISAID) database and encoded into feature vectors.
+![Abstract Overview](/assets/img/Proposed.png)
 
 ### ADConv-Net: Advanced Deep Convolution Neural Network for COVID-19 Diagnostics Using Chest X-Ray and CT Images
 [Publication](https://link.springer.com/article/10.1007/s42979-025-03923-4)

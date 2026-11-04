@@ -13,7 +13,8 @@
 - M.Tech., CSE | Dr. B.R Ambedkar National Institute of Technology Jalandhar, Punjab, India (_August 2019_ - August 2021)	 			        		
 - B.Tech., IT | IIMT Groupe of Colleges, G.Noida , India (_July 2012_ - July 2016)
 
-### Academic & Research Opportunities: Open to Postdoctoral Research Opportunities, Visiting Faculty Positions, International Research Collaborations, and Research Scientist Positions.
+## Academic & Research Opportunities: 
+- Open to Postdoctoral Research Opportunities, Visiting Faculty Positions, International Research Collaborations, and Research Scientist Positions.
 
 ## Work Experience
 

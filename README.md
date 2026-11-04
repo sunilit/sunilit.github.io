@@ -9,9 +9,6 @@ Department of Computer Science and Engineering, Amity University, Noida, India
 - M.Tech., CSE | Dr. B.R Ambedkar National Institute of Technology Jalandhar, Punjab, India (_August 2019_ - August 2021)	 			        		
 - B.Tech., IT | IIMT Groupe of Colleges, G.Noida , India (_July 2012_ - July 2016)
 
-## Academic & Research Opportunities: 
-- Open to Postdoctoral Research Opportunities, Visiting Faculty Positions, International Research Collaborations, and Research Scientist Positions.
-
 #### Technical Skills
 - **Programming & Tools:**  Python, C, C++, Java, SQL, PHP, AWS, CUDA, MATLAB, DICOM, Biopython, BLAST, UPPAAL, NuSMV
 - **Frameworks & Technologies:** TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, NiBabel, NLTK, OpenCV 
@@ -118,18 +115,6 @@ Applied CNN-based deep learning approach for brain tumor detection and classific
 ![Tumor Study](/assets/img/CNNModel.png)
 
 
-
-
-## Awards
-- Earned the Best Paper Award at the IEEE GCON, 2023
-- Recipient of MHRD Scholarship, Govt. of India as NIT Karnataka Institute Assistantship for Doctoral Programme, September 2021 – September 2026.
-- Received a First Prize in the Research Ethics Competition organized by IEEE TEMSCON ASPAC 2024.
-- Recipient of Project Fellow Assistantship sponsored by BISAG-N, MeitY, Govt. of India, May 2021 – September 2021.
-- Guest Lecture: Deep Learning and Machine Learning for Scientific Discovery, organized by ISRO at BISAG-N 2021.
-- Earned the Best Paper Award at the IEEE ICAIS, 2021.
-- Recipient of MHRD Scholarship, Govt. of India, as NIT Jalandhar Institute Assistantship for Post Graduation, August 2019 – June 2021.
-
-
 ## Publications
 
 ### Journal
@@ -169,6 +154,18 @@ Applied CNN-based deep learning approach for brain tumor detection and classific
 2. Kumar, S., & Bhowmik, B. R. (2023). Role of Genomics in Smart Era and Its Application in COVID‐19. Privacy Preservation of Genomic and Medical Data, 73-112.
 
 
+## Awards
+- Earned the Best Paper Award at the IEEE GCON, 2023
+- Recipient of MHRD Scholarship, Govt. of India as NIT Karnataka Institute Assistantship for Doctoral Programme, September 2021 – September 2026.
+- Received a First Prize in the Research Ethics Competition organized by IEEE TEMSCON ASPAC 2024.
+- Recipient of Project Fellow Assistantship sponsored by BISAG-N, MeitY, Govt. of India, May 2021 – September 2021.
+- Guest Lecture: Deep Learning and Machine Learning for Scientific Discovery, organized by ISRO at BISAG-N 2021.
+- Earned the Best Paper Award at the IEEE ICAIS, 2021.
+- Recipient of MHRD Scholarship, Govt. of India, as NIT Jalandhar Institute Assistantship for Post Graduation, August 2019 – June 2021.
+
+
+## Academic & Research Opportunities: 
+- Open to Postdoctoral Research Opportunities, Visiting Faculty Positions, International Research Collaborations, and Research Scientist Positions.
 
 ## 🌐 Socials:
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Sunil-Kumar-388?ev=hdr_xprf)[![CPS Lab](https://img.shields.io/badge/CPS%20Lab-Visit-blue?style=flat&logo=google&logoColor=white)](https://sites.google.com/view/vicayana-gaveshana/labs/cps-lab)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cpsmedicalresearch) [![ORCID](https://img.shields.io/badge/ORCID-000000?style=flat&logo=ORCID&logoColor=white&labelColor=A6CE39)](https://orcid.org/0000-0002-4883-1191)

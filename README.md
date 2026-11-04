@@ -1,9 +1,5 @@
 # Assistant Professor
-##Department of Computer Science and Engineering, Amity University, Noida, India
-
-#### Technical Skills
-- **Programming & Tools:**  Python, C, C++, Java, SQL, PHP, AWS, CUDA, MATLAB, DICOM, Biopython, BLAST, UPPAAL, NuSMV
-- **Frameworks & Technologies:** TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, NiBabel, NLTK, OpenCV
+Department of Computer Science and Engineering, Amity University, Noida, India
 
 #### Research Areas
 - Medical Imaging, Deep Learning, Artificial Intelligence, Healthcare Cyber-Physical Systems (CPS), Formal Verification, Machine Learning, DNA/Protein Arrays, Cancer Research, Respiratory Diseases, Bioinformatics, High-Performance Computing (HPC), Internet of Things (IoT)
@@ -15,6 +11,10 @@
 
 ## Academic & Research Opportunities: 
 - Open to Postdoctoral Research Opportunities, Visiting Faculty Positions, International Research Collaborations, and Research Scientist Positions.
+
+#### Technical Skills
+- **Programming & Tools:**  Python, C, C++, Java, SQL, PHP, AWS, CUDA, MATLAB, DICOM, Biopython, BLAST, UPPAAL, NuSMV
+- **Frameworks & Technologies:** TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, NiBabel, NLTK, OpenCV 
 
 ## Work Experience
 

@@ -1,4 +1,5 @@
 # Assistant Professor
+##Department of Computer Science and Engineering, Amity University, Noida, India
 
 #### Technical Skills
 - **Programming & Tools:**  Python, C, C++, Java, SQL, PHP, AWS, CUDA, MATLAB, DICOM, Biopython, BLAST, UPPAAL, NuSMV
@@ -11,6 +12,8 @@
 - Ph.D., CSE | National Institute of Technology Karnataka, Surathkal, India (_September 2021_ -October 2026)								       		
 - M.Tech., CSE | Dr. B.R Ambedkar National Institute of Technology Jalandhar, Punjab, India (_August 2019_ - August 2021)	 			        		
 - B.Tech., IT | IIMT Groupe of Colleges, G.Noida , India (_July 2012_ - July 2016)
+
+### Academic & Research Opportunities: Open to Postdoctoral Research Opportunities, Visiting Faculty Positions, International Research Collaborations, and Research Scientist Positions.
 
 ## Work Experience
 

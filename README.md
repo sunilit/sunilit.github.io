@@ -185,7 +185,6 @@ Applied CNN-based deep learning approach for brain tumor detection and classific
 
 [![View Office Location](https://img.shields.io/badge/Office%20Location-Amity%20University-blue?logo=google-maps)](https://maps.app.goo.gl/pYLSbRgsC9bgXKSGA)
 
-[![Map](https://img.shields.io/badge/View%20on%20Map-Google%20Maps-blue?logo=google-maps)]([https://maps.app.goo.gl/54DFtbiSe4wm4miz6](https://www.google.com/maps/place/E-3+Block,+Department+of+CSE%2FIT,+Amity+University/@28.5441636,77.3305626,17z/data=!3m2!4b1!5s0x390ce5d56759ec47:0x136f37a860d6d669!4m6!3m5!1s0x390ce5d53783d821:0x90f8e8eb9107042a!8m2!3d28.5441589!4d77.3331375!16s%2Fg%2F11dx8dw_8n?entry=ttu&g_ep=EgoyMDI2MTEwMS4wIKXMDSoASAFQAw%3D%3D))
 
 
 

@@ -1,4 +1,4 @@
-# Sunil Kumar, Ph.D.
+# Assistant Professor
 
 #### Technical Skills
 - **Programming & Tools:**  Python, C, C++, Java, SQL, PHP, AWS, CUDA, MATLAB, DICOM, Biopython, BLAST, UPPAAL, NuSMV

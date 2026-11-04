@@ -1,4 +1,4 @@
-# Research Scholar
+# Sunil Kumar, Ph.D.
 
 #### Technical Skills
 - **Programming & Tools:**  Python, C, C++, Java, SQL, PHP, AWS, CUDA, MATLAB, DICOM, Biopython, BLAST, UPPAAL, NuSMV
@@ -8,11 +8,20 @@
 - Medical Imaging, Deep Learning, Artificial Intelligence, Healthcare Cyber-Physical Systems (CPS), Formal Verification, Machine Learning, DNA/Protein Arrays, Cancer Research, Respiratory Diseases, Bioinformatics, High-Performance Computing (HPC), Internet of Things (IoT)
 
 ## Education
-- Ph.D., CSE | National Institute of Technology Karnataka, Surathkal, India (_September 2021_ - Present)								       		
+- Ph.D., CSE | National Institute of Technology Karnataka, Surathkal, India (_September 2021_ -October 2026)								       		
 - M.Tech., CSE | Dr. B.R Ambedkar National Institute of Technology Jalandhar, Punjab, India (_August 2019_ - August 2021)	 			        		
 - B.Tech., IT | IIMT Groupe of Colleges, G.Noida , India (_July 2012_ - July 2016)
 
 ## Work Experience
+
+**Assistant Professor & Placement Coordinator, C.S.E. Department @ Amity University, Noida (October 2026 – Present)**
+- Conduct theory lectures, laboratory sessions, tutorials, and quizzes for Data Structures for second-year B.Tech students during the Odd Semester (July–December).
+- Deliver theory lectures, laboratory sessions, and assessments for Deep Neural Networks for third-year B.Tech students.
+- Teach High-Performance Computing (HPC) to first-year M.Tech and Ph.D. students, focusing on advanced parallel computing concepts and practical implementations.
+- Mentor third- and fourth-year B.Tech students and first- and second-year M.Tech students on minor and major projects. Guide students in project design, implementation, experimentation, technical writing, and presentation skills across programming, system design, and high-performance computing domains.
+- Coordinate student placement activities, technical training, and placement preparation initiatives to enhance students' programming skills, problem-solving abilities, and industry readiness.
+
+
 **Teaching Assistant @ National Institute of Technology Karnataka, Surathkal, India (_September 2021_ - Present)**
 - Conduct theory, lab, tutorial, and quiz sessions for C Programming and Python for B.Tech 1st Year students during the Odd semester (July–December).
 - Lead the theory, lab, and quiz components for Compiler Design and Big Data for B.Tech 3rd-year students.
